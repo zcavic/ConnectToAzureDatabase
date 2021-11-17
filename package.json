@@ -1,0 +1,22 @@
+{
+  "name": "connecttoazuredatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcavic/ConnectToAzureDatabase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcavic/ConnectToAzureDatabase/issues"
+  },
+  "homepage": "https://github.com/zcavic/ConnectToAzureDatabase#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
